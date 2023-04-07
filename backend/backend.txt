@@ -1,1 +1,0 @@
-This is my attempt at getting Github to recognize this folder so I can commit it to Github.

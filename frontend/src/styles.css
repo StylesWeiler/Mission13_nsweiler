@@ -90,3 +90,13 @@ body {
 .words {
   text-decoration-color: #8e3c1d;
 }
+
+td {
+  color: #8e3c1d;
+  /* Set the background color to bacon color */
+}
+
+tr {
+  color: #8e3c1d;
+  /* Set the background color to bacon color */
+}

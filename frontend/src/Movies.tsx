@@ -5,7 +5,7 @@ import data from './MovieData.json';
 
 const movieData = data.MovieData;
 
-function MovieList() {
+function Movie() {
   const [listOfMovies, setListOfMovies] = useState(movieData);
 
   const cellStyle = {
@@ -61,4 +61,4 @@ function MovieList() {
   );
 }
 
-export default MovieList;
+export default Movie;

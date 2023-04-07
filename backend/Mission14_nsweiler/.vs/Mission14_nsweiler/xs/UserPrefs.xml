@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BF45D9AB-729E-4C26-A866-9DEB9A1C9681}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission14_nsweiler/Models/Movie.cs">
+    <Files>
+      <File FileName="Mission14_nsweiler/Controllers/WeatherForecastController.cs" />
+      <File FileName="Mission14_nsweiler/appsettings.json" Line="14" Column="1" />
+      <File FileName="Mission14_nsweiler/Program.cs" Line="32" Column="24" />
+      <File FileName="Mission14_nsweiler/Data/Movie.cs" Line="30" Column="1" />
+      <File FileName="Mission14_nsweiler/JoelHiltonMovieCollection.sqlite" />
+      <File FileName="Mission14_nsweiler/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission14_nsweiler" expanded="True">
+            <Node name="Mission14_nsweiler" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mission14__nsweiler FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
